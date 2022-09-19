@@ -1,2 +1,2 @@
 # wypyn.github.io
-my interactive html
+my interactive html on DAILY Plotly graph
